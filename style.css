@@ -1,0 +1,113 @@
+body {
+    background: black;
+    background-image: url(30902.jpg);
+    background-repeat: repeat;
+    background-size: 130%;
+}
+div.Judul {
+    display: block;
+    text-align: center;
+    color: white;
+    font-family: 'Share Tech', sans-serif;
+    font-size: larger;
+}
+h2 {
+    color: yellowgreen;
+    text-align: justify;
+}
+a {
+    font-family: 'Share Tech', sans-serif;
+    text-decoration: none;
+    padding: .5em 1.25em;
+    background: yellowgreen;
+    color: white;
+    transition:
+    transform 250ms ease-in-out,
+    opacity 275ms;
+    font-size: x-large;
+}
+a:hover,
+a:focus {
+    transform: scale(1.1);
+    opacity: 0.7;
+}
+select {
+    font-family: 'Kumbh Sans', sans-serif;
+}
+p {
+    font-family: 'Share Tech', sans-serif;
+    text-align: start;
+    font-size: larger;
+    color: white;
+    display: inline;
+}
+img {
+    text-align: center;
+    max-width: 8%;
+}
+h1#pertanyaan {
+    font-family: 'Anton', sans-serif;
+    color: white;
+    font-weight: 100;
+}
+p#pertanyaa {
+    font-family: 'Work Sans', sans-serif;
+    color: white;
+    font-weight: 100;
+    font-size: larger;
+}
+h1#pertanyaan2 {
+    font-family: 'Anton', sans-serif;
+    color: white;
+    font-weight: 100;
+}
+p#pertanyaa2 {
+    font-family: 'Anton', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    color: white;
+    font-weight: 100;
+    font-size: larger;
+}
+h1#download {
+    display: block;
+    color: white; 
+    font-size: xx-large;
+    background-position: bottom;
+}
+span {
+    color: yellowgreen;
+}
+.txt {
+    padding: .5em 1em;
+    display: inline-block;
+    opacity: 1;
+    font-size: larger;
+}
+h2 {
+    font-family: 'Kumbh Sans', sans-serif;
+    font-size: xx-large;
+}
+h1#download {
+    font-family: 'Kumbh Sans', sans-serif;
+    font-size: xx-large;
+    color: white;
+}
+div.txt {
+    font-size: medium;
+}
+p.content a {
+    display: inline;
+}
+video {
+    max-width: 50%;
+    float: right;
+    margin: 0%;
+}
+.kiri {
+    float: right;
+    margin-right: 20%;
+}
+.kanan {
+    float: left;
+    display: block;
+}
